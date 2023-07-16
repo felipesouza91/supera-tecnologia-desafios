@@ -35,6 +35,6 @@ public class NotasMoedas {
             System.out.println(message);
             
         }
-
+        scan.close();
     }
 }
